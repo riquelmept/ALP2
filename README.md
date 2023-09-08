@@ -2,29 +2,6 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Sistema Comercial de Vendas</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: #333333;
-            text-align: center;
-        }
-        h2 {
-            color: #666666;
-            margin-left: 20px;
-        }
-        p {
-            margin-left: 40px;
-        }
-        code {
-            font-family: "Courier New", monospace;
-            background-color: #e0e0e0;
-            padding: 5px;
-        }
-    </style>
 </head>
 <body>
     <h1>Sistema Comercial de Vendas</h1>
